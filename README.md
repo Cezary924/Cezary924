@@ -21,4 +21,4 @@
 ## ⚡ Fun fact
 - I love capybaras! ❤️
 
-<img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="50" height="50"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="50" height="50"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="50" height="50">
+<img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
