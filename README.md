@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Cezary924/Cezary924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+- Cezary924Bot - Multifunctional Telegram Bot
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact:
+- I love capybaras!
+
+<img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="50" height="50"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="50" height="50"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="50" height="50">
