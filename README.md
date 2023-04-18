@@ -15,10 +15,15 @@
 
 ## 🔭 I’m currently learning
 - Python
-- C++
+- C/C++
 
 
 ## ⚡ Fun fact
 - I love capybaras! ❤️
 
 <img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
+
+## 📃 GitHub Stats</summary>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cezary924&theme=github_dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cezary924&theme=github_dark&show_icons=true" />
