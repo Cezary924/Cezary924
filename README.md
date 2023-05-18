@@ -10,7 +10,8 @@
 
 
 ## 🧑‍💻 I’m currently working on
-- Cezary924Bot - Multifunctional Telegram Bot (for fun 😁)
+- Multifunctional Telegram Bot
+- Argon One Fan Mode Changer
 
 
 ## 🔭 I’m currently learning
@@ -22,6 +23,7 @@
 - I love capybaras! ❤️
 
 <img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
+
 
 ## 📃 GitHub Stats</summary>
 
