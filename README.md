@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 I’m currently working on
 - Multifunctional Telegram Bot
-- Argon One Fan Mode Changer
+<!--- - Argon One Fan Mode Changer --->
 
 
 ## 🔭 I’m currently learning
