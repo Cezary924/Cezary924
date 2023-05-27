@@ -17,7 +17,7 @@
 ## 🔭 I’m currently learning
 - Python
 - C/C++
-
+- Java
 
 ## ⚡ Fun fact
 - I love capybaras! ❤️
