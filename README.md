@@ -10,14 +10,14 @@
 
 
 ## 🧑‍💻 I’m currently working on
-- Multifunctional Telegram Bot
-<!--- - Argon One Fan Mode Changer --->
+- [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot)
+- Argon One Fan Mode Changer
 
 
 ## 🔭 I’m currently learning
 - Python
 - C/C++
-<!--- - Java --->
+- Java
 
 
 ## ⚡ Fun fact
