@@ -29,7 +29,8 @@
 <h2>
   <details>
     <summary>GitHub Stats</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Cezary924&include_all_commits=true&theme=github_dark&rank_icon=percentile&hide_title=true&show_icons=true&line_height=27" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cezary924&theme=github_dark&show_icons=true&hide_title=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Cezary924&theme=transparent&rank_icon=percentile&hide_title=true&show_icons=true&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cezary924&theme=transparent&show_icons=true&hide_title=true&line_height=60&hide_border=true" />
+    <img align="left" src="https://streak-stats.demolab.com/?user=Cezary924&theme=transparent&card_width=470&hide_border=true" />
   </details>
 </h2>
