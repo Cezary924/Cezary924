@@ -16,7 +16,6 @@
 
 ## 🔭 I’m currently learning
 - Python
-- C/C++
 
 
 ## ⚡ Fun fact
