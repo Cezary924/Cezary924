@@ -15,7 +15,7 @@
 
 
 ## 🔭 I’m currently learning
-- Python
+- Python 🐍
 
 
 ## ⚡ Fun fact
