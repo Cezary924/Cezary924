@@ -16,6 +16,7 @@
 
 ## 🔭 I’m currently learning
 - Python 🐍
+- C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="16" height="16">/C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="16" height="16">
 
 ## ⚡ Fun fact
 - I love capybaras! ❤️
