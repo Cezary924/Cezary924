@@ -7,7 +7,7 @@
 - 22yo 🙍🏻
 - Poland 🇵🇱
 - Bachelor's degree in Applied Computer Science at Jagiellonian University (2023) 🎓
-- Student of Applied Computer Science at Jagiellonian University 🏫
+- Student of Applied Computer Science at Jagiellonian University (Master's degree) 🏫
 
 
 ## 🧑‍💻 I’m currently working on
