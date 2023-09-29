@@ -10,8 +10,11 @@
 - Student of Applied Computer Science at Jagiellonian University (Master's degree) 🏫
 
 
-## 🧑‍💻 I’m currently working on
+## 🧑‍💻 My repos
+#### Currently working on
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot)
+#### Other
+- [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer)
 
 
 ## 🔭 I’m currently learning
