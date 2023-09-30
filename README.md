@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 
 
@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 My repos
 #### Currently working on
-- [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot)
+- [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
 #### Other
-- [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer)
+- [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
 
 ## 🔭 I’m currently learning
