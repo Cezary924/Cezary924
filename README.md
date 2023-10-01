@@ -6,8 +6,8 @@
 - Cezary ♂️
 - 22yo 🙍🏻
 - Poland 🇵🇱
-- Bachelor's degree in Applied Computer Science at Jagiellonian University (2023) 🎓
-- Student of Applied Computer Science at Jagiellonian University (Master's degree) 🏫
+- Bachelor's degree in Applied Computer Science at Jagiellonian University (2020-2023) 🎓
+- Student of Applied Computer Science at Jagiellonian University (Master's degree; 2023-(2025)) 🏫
 
 
 ## 🧑‍💻 My repos
