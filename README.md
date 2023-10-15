@@ -11,9 +11,9 @@
 
 
 ## 🧑‍💻 My repos
-#### Currently working on
+#### Currently working on:
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
-#### Other
+#### Other:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
 
