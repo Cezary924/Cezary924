@@ -11,9 +11,9 @@
 
 
 ## 🧑‍💻 Moje repozytoria
-#### Obecnie pracuję nad
+#### Obecnie pracuję nad:
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
-#### Inne
+#### Inne:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
 
