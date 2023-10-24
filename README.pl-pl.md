@@ -5,23 +5,37 @@
 ## 🙋‍♂️ O mnie
 - Cezary ♂️
 - 22 lata 🙍🏻
-- Polska 🇵🇱
+- Kraków, Polska 🇵🇱
 - Licencjat: Informatyka Stosowana - Uniwersytet Jagielloński (2020-2023) 🎓
-- Magister: Informatyka Stosowana - Uniwersyste Jagielloński (2023-(2025)) 🏫
+- Obecnie: Magister: Informatyka Stosowana - Uniwersyste Jagielloński (2023-(2025)) 🏫
 
 
-## 🧑‍💻 Moje repozytoria
+## 🔭 Obecnie uczę się/poznaję/używam
+- Python 🐍
+
+
+## 🛠️ Umiejętności
+- Podstawowa znajomość:
+  - języki: Python/C/C++/Java/HTML/SQL
+  - systemy operacyjne: Linux/Windows
+  - systemy kontroli wersji: Git
+  - edytory kodu i środowiska programistyczne: VSC, VS
+  - narzędzia biurowe: MS Office, OpenOffice, Google Docs
+- Analityczne myślenie
+- Umiejętność rozwiązywania problemów
+- Umiejętność pracy samodzielnej jak i w grupie
+- Otwartość na nowe rozwiązania/technologie
+
+
+## 🧑‍💻 Moje publiczne repozytoria
 #### Obecnie pracuję nad:
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
 #### Inne:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
 
-## 🔭 Uczę się/poznaję
-- Python 🐍
-- C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="16" height="16">/C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="16" height="16">
-
-## ⚡ Ciekawostka
+## ⚡ Ciekawostki
+- Zainteresowania: gry komputerowe (szczególnie symulatory) 🎮, muzyka (pop/rock) 💽, śpiewanie 🎤
 - Kocham kapibary! ❤️
 
 <img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
