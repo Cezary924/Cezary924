@@ -5,23 +5,37 @@
 ## 🙋‍♂️ About me
 - Cezary ♂️
 - 22yo 🙍🏻
-- Poland 🇵🇱
+- Cracow, Poland 🇵🇱
 - Bachelor's degree in Applied Computer Science at Jagiellonian University (2020-2023) 🎓
 - Student of Applied Computer Science at Jagiellonian University (Master's degree; 2023-(2025)) 🏫
 
 
-## 🧑‍💻 My repos
+## 🔭 I’m currently learning/using
+- Python 🐍
+
+
+## 🛠️ Skills
+- A fundamental knowledge of
+  - languages: Python/C/C++/Java/HTML/SQL
+  - operating systems: Linux/Windows
+  - version control systems: Git
+  - code editors and development environments: VSC, VS
+  - office tools: MS Office, OpenOffice, Google Docs
+- Analytical skills
+- Ability to solve problems
+- Ability to work independently and in a team
+- Openness to new solutions/technologies
+
+
+## 🧑‍💻 My public repos
 #### Currently working on:
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
 #### Other:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
 
-## 🔭 I’m currently learning
-- Python 🐍
-- C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="16" height="16">/C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="16" height="16">
-
-## ⚡ Fun fact
+## ⚡ Fun facts
+- My hobbies: computer games (especially simulators) 🎮, music (pop/rock) 💽, singing 🎤
 - I love capybaras! ❤️
 
 <img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
