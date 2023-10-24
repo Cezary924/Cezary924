@@ -15,16 +15,16 @@
 
 
 ## 🛠️ Skills
-- A fundamental knowledge of:
+- A fundamental knowledge of: 📚
   - languages: Python/C/C++/Java/HTML/SQL
   - operating systems: Linux/Windows
   - version control systems: Git
   - code editors and development environments: VSC, VS
   - office tools: MS Office, OpenOffice, Google Docs
-- Analytical skills
-- Ability to solve problems
-- Ability to work independently and in a team
-- Openness to new solutions/technologies
+- Analytical skills 📊
+- Ability to solve problems 💡
+- Ability to work independently and in a team 👤👥
+- Openness to new solutions/technologies 💻⚙️
 
 
 ## 🧑‍💻 My public repos
