@@ -15,7 +15,7 @@
 
 
 ## 🛠️ Skills
-- A fundamental knowledge of
+- A fundamental knowledge of:
   - languages: Python/C/C++/Java/HTML/SQL
   - operating systems: Linux/Windows
   - version control systems: Git
