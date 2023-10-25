@@ -12,6 +12,7 @@
 
 ## 🔭 Obecnie uczę się/poznaję/używam
 - Python 🐍
+- Bash/PowerShell 🐚
 
 
 ## 🛠️ Umiejętności
