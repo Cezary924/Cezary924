@@ -12,6 +12,7 @@
 
 ## 🔭 I’m currently learning/using
 - Python 🐍
+- Bash/PowerShell 🐚
 
 
 ## 🛠️ Skills
