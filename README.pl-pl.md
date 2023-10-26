@@ -10,7 +10,7 @@
 - Obecnie: Magister: Informatyka Stosowana - Uniwersyste Jagielloński (2023-(2025)) 🏫
 
 
-## 🔭 Obecnie uczę się/poznaję/używam
+## 🔭 Obecnie poznaję/używam
 - Python 🐍
 - Bash/PowerShell 🐚
 
