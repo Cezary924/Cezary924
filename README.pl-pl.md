@@ -12,6 +12,7 @@
 
 ## 🔭 Obecnie poznaję/używam
 - Python 🐍
+- HTML 🌐
 - Bash/PowerShell 🐚
 
 
