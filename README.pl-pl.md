@@ -36,7 +36,7 @@
 
 ## ⚡ Ciekawostki
 - Zainteresowania: gry komputerowe (szczególnie symulatory) 🎮, muzyka (pop/rock) 💽, śpiewanie 🎤
-- Kocham kapibary! ❤️
+- Kocham kapibary ❤️
 
 <img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
 
