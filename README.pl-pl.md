@@ -10,21 +10,23 @@
 - Obecnie: Magister: Informatyka Stosowana - Uniwersyste Jagielloński (2023-(2025)) 🏫
 
 
-## 🔭 Obecnie uczę się/poznaję/używam
+## 🔭 Obecnie poznaję/używam
 - Python 🐍
+- HTML 🌐
+- Bash/PowerShell 🐚
 
 
 ## 🛠️ Umiejętności
-- Podstawowa znajomość:
+- Podstawowa znajomość: 📚
   - języki: Python/C/C++/Java/HTML/SQL
   - systemy operacyjne: Linux/Windows
   - systemy kontroli wersji: Git
   - edytory kodu i środowiska programistyczne: VSC, VS
   - narzędzia biurowe: MS Office, OpenOffice, Google Docs
-- Analityczne myślenie
-- Umiejętność rozwiązywania problemów
-- Umiejętność pracy samodzielnej jak i w grupie
-- Otwartość na nowe rozwiązania/technologie
+- Analityczne myślenie 📊
+- Umiejętność rozwiązywania problemów 💡
+- Umiejętność pracy samodzielnej jak i w grupie 👤👥
+- Otwartość na nowe rozwiązania/technologie 💻⚙️
 
 
 ## 🧑‍💻 Moje publiczne repozytoria
