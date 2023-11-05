@@ -12,7 +12,7 @@
 
 ## 🔭 I’m currently learning/using
 - Python 🐍
-- HTML 🌐
+- HTML+CSS 🌐
 - Bash/PowerShell 🐚
 
 
