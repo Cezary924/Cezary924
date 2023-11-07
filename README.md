@@ -32,6 +32,7 @@
 ## 🧑‍💻 My public repos
 #### Currently working on:
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
+  > (consists of many unconnected features 😁)
 #### Other:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
