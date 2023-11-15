@@ -12,6 +12,7 @@
 
 ## 🔭 I’m currently learning/using
 - Python 🐍
+- C++ ➕
 - HTML+CSS 🌐
 - Bash/PowerShell 🐚
 
