@@ -1,5 +1,8 @@
-<h1 align="center">Cześć! 👋</h1>
-
+<div align="center">
+  <h1>Cześć! 👋</h1>
+  <a href="https://github.com/Cezary924/Cezary924/blob/master/README.md" target="__blank"><img src="https://img.shields.io/badge/lang-en-blue.svg"></a>
+  <a href="https://github.com/Cezary924/Cezary924/blob/master/README.pl-pl.md" target="__blank"><img src="https://img.shields.io/badge/lang-pl-red.svg"></a>
+</div>
 
 
 ## 🙋‍♂️ O mnie
