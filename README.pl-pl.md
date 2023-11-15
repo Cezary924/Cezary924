@@ -7,7 +7,7 @@
 - 22 lata 🙍🏻
 - Kraków, Polska 🇵🇱
 - Licencjat: Informatyka Stosowana - Uniwersytet Jagielloński _(2020-2023)_ 🎓
-- __Obecnie:__ Magister: Informatyka Stosowana - Uniwersyste Jagielloński _(2023-(2025))_ 🏫
+- __Obecnie:__ Magister: Informatyka Stosowana - Uniwersystet Jagielloński _(2023-(2025))_ 🏫
 
 
 ## 🔭 Obecnie poznaję/używam
