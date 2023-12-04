@@ -21,7 +21,7 @@
 
 
 ## 🛠️ Umiejętności
-- Podstawowa znajomość: 📚
+- Fundamentalna wiedza o: 📚
   - języki: Python/C/C++/Java/HTML/SQL
   - systemy operacyjne: Linux/Windows
   - systemy kontroli wersji: Git
