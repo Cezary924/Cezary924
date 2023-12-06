@@ -27,10 +27,6 @@
   - systemy kontroli wersji: Git
   - edytory kodu i środowiska programistyczne: VSC, VS
   - narzędzia biurowe: MS Office, OpenOffice, Google Docs
-- Analityczne myślenie 📊
-- Umiejętność rozwiązywania problemów 💡
-- Umiejętność pracy samodzielnej jak i w grupie 👤👥
-- Otwartość na nowe rozwiązania/technologie 💻⚙️
 
 
 ## 🧑‍💻 Moje publiczne repozytoria
