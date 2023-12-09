@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Cześć! 👋</h1>
-  <a href="https://github.com/Cezary924/Cezary924/blob/master/README.md" target="__blank"><img src="https://img.shields.io/badge/lang-en-blue.svg"></a>
-  <a href="https://github.com/Cezary924/Cezary924/blob/master/README.pl-pl.md" target="__blank"><img src="https://img.shields.io/badge/lang-pl-red.svg"></a>
+  <a href="https://github.com/Cezary924/Cezary924/blob/master/README.md" target="__blank"><img alt="Etykieta z napisem 'Jęz 🇬🇧' - link prowadzi do pliku README w języku angielskim" src="https://img.shields.io/badge/Jęz-🇬🇧-012169?style=for-the-badge"></a>
+   <a href="https://github.com/Cezary924/Cezary924/blob/master/README.pl-pl.md" target="__blank"><img alt="Etykieta z napisem 'Jęz 🇵🇱' - link prowadzi do pliku README w języku polskim" src="https://img.shields.io/badge/Jęz-🇵🇱-dc143c?style=for-the-badge"></a>
 </div>
 
 
