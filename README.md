@@ -39,7 +39,7 @@
 
 
 ## ⚡ Fun facts
-- My hobbies: computer games (especially simulators) 🎮, music (pop/rock) 💽, singing 🎤
+- My hobbies: computer games 🎮, music 💽, singing 🎤
 - I love capybaras ❤️
 
 <img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
