@@ -16,9 +16,9 @@
 
 ## 🔭 Obecnie poznaję/używam
 - Python 🐍
-- C++ ➕
 - HTML+CSS 🌐
 - Bash/PowerShell 🐚
+- C++ ➕
 
 
 ## 🛠️ Umiejętności
