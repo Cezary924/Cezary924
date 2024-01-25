@@ -10,8 +10,8 @@
 - Cezary ♂️
 - 22 lata 🙍🏻
 - Kraków, Polska 🇵🇱
-- Licencjat, Informatyka Stosowana - Uniwersytet Jagielloński _(2020-2023)_ 🎓
-- Magister, Informatyka Stosowana - Uniwersystet Jagielloński _(2023-(2025))_ 🏫 
+- Absolwent studiów I stopnia: Informatyka Stosowana - Uniwersytet Jagielloński _(2020-2023)_ 🎓
+- Student studiów II stopnia: Informatyka Stosowana - Uniwersystet Jagielloński _(2023-(2025))_ 🏫 
 
 
 ## 🔭 Obecnie poznaję/używam
