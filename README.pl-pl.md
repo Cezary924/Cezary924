@@ -23,7 +23,7 @@
 
 ## 🛠️ Umiejętności
 - Fundamentalna wiedza o: 📚
-  - języki: Python/C/C++/Java/HTML/SQL
+  - języki: Python/C(++)/Java/HTML/SQL
   - systemy operacyjne: Linux/Windows
   - systemy kontroli wersji: Git
   - edytory kodu i środowiska programistyczne: VSC, VS
