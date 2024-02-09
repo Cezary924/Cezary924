@@ -18,7 +18,7 @@
 - Python 🐍
 - HTML+CSS 🌐
 - Bash/PowerShell 🐚
-- C(++) ➕
+- C++ ➕
 
 
 ## 🛠️ Skills
