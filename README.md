@@ -19,6 +19,7 @@
 - HTML+CSS 🌐
 - Bash/PowerShell 🐚
 - C++ ➕
+- ML 🤖
 
 
 ## 🛠️ Skills
