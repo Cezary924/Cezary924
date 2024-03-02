@@ -19,7 +19,7 @@
 - HTML+CSS 🌐
 - Bash/PowerShell 🐚
 - C++ ➕
-- ML 🤖
+- UM 🤖
 
 
 ## 🛠️ Umiejętności
