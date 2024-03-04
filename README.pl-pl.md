@@ -18,13 +18,14 @@
 - Python 🐍
 - HTML+CSS 🌐
 - Bash/PowerShell 🐚
-- C++ ➕
+- C++ ➕➕
+- C# ♯
 - UM 🤖
 
 
 ## 🛠️ Umiejętności
 - Fundamentalna wiedza o: 📚
-  - języki: Python/C(++)/Java/HTML/SQL
+  - języki: Python/C/C++/C#/Java/HTML/SQL
   - systemy operacyjne: Linux/Windows
   - systemy kontroli wersji: Git
   - edytory kodu i środowiska programistyczne: VSC, VS
