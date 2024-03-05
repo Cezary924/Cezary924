@@ -15,17 +15,14 @@
 
 
 ## 🔭 I’m currently learning/using
-- Python 🐍
-- HTML+CSS 🌐
-- Bash/PowerShell 🐚
-- C++ ➕➕
-- C# ♯
-- ML 🤖
+- JavaScript
+- C#
+- ML
 
 
 ## 🛠️ Skills
 - A fundamental knowledge of: 📚
-  - languages: Python/C/C++/C#/Java/HTML/SQL
+  - languages: Python/C/C++/C#/Java/HTML/CSS/SQL
   - operating systems: Linux/Windows
   - version control systems: Git
   - code editors and development environments: VSC, VS
