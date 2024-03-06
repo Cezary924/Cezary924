@@ -15,12 +15,9 @@
 
 
 ## 🔭 Obecnie poznaję/używam
-- Python 🐍
-- HTML+CSS 🌐
-- Bash/PowerShell 🐚
-- C++ ➕➕
-- C# ♯
-- UM 🤖
+- JavaScript
+- C#
+- UM
 
 
 ## 🛠️ Umiejętności
