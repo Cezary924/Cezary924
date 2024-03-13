@@ -31,9 +31,9 @@
 
 ## 🧑‍💻 Moje publiczne repozytoria
 #### Obecnie pracuję nad:
-- [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
   > (składa się z wielu niepowiązanych ze sobą funkcji 😁)
+- [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
 #### Inne:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
