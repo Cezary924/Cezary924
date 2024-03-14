@@ -30,9 +30,9 @@
 
 ## 🧑‍💻 My public repos
 #### Currently working on:
-- [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Telegram-Bot) 🤖
-  > (consists of many unconnected features 😁)
+  > (many unrelated features 😁)
+- [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
 #### Other:
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
