@@ -32,8 +32,9 @@
 #### Currently working on:
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Telegram-Bot) 🤖
   > (many unrelated features 😁)
-- [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
+
 #### Other:
+- [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
 
