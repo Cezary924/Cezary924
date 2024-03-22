@@ -16,6 +16,7 @@
 
 ## 🔭 I’m currently learning/using
 - JavaScript
+- Node.js & React
 - C#
 - ML
 
