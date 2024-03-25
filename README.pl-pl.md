@@ -16,6 +16,7 @@
 
 ## 🔭 Obecnie poznaję/używam
 - JavaScript
+- Node.js & React
 - C#
 - UM
 
