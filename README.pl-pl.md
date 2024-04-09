@@ -30,11 +30,10 @@
   - narzędzia biurowe: MS Office, OpenOffice, Google Docs
 
 
-## 🧑‍💻 Moje publiczne repozytoria
-#### Obecnie pracuję nad:
+## 🧑‍💻 Moje repozytoria
 - [Multifunctional Telegram Bot](https://github.com/Cezary924/Cezary924-Telegram-Bot) 🤖
   > (wiele różnych funkcji 😁)
-#### Inne:
+- [Open Hardware Monitor Dashboard for Raspberry Pi](https://github.com/Cezary924/Open-Hardware-Monitor-Dashboard-for-Raspberry-Pi) 📊
 - [Homebridge Automation Bot](https://github.com/Cezary924/Homebridge-Automation-Bot) 🏠
 - [Argon One Fan Mode Changer](https://github.com/Cezary924/Argon-One-Fan-Mode-Changer) 𖣘
 
