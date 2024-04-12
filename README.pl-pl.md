@@ -48,7 +48,7 @@
 <h2>
   <details>
     <summary>GitHub Stats</summary>
-    <img alt="Grafika przedstawiająca pozycję rankingową użytkownika Cezary924" align="left" src="https://github-readme-stats.vercel.app/api?username=Cezary924&theme=transparent&rank_icon=percentile&hide_title=true&show_icons=true&hide_border=true" />
+    <img alt="Grafika przedstawiająca pozycję rankingową użytkownika Cezary924" align="left" src="https://github-readme-stats.vercel.app/api?username=Cezary924&theme=transparent&hide_title=true&show_icons=true&hide_border=true" />
     <img alt="Grafika przedstawiająca ranking używanych języków przez użytkownika Cezary924" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cezary924&theme=transparent&show_icons=true&hide_title=true&line_height=60&hide_border=true" />
     <img alt="Grafika przedstawiająca statystyki commitów użytkownika Cezary924" align="left" src="https://streak-stats.demolab.com/?user=Cezary924&theme=transparent&card_width=470&hide_border=true" />
   </details>
