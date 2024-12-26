@@ -8,25 +8,24 @@
 
 ## 🙋‍♂️ About me
 - Cezary ♂️
-- 22yo 🙍🏻
+- 23yo 🙍🏻
 - Cracow, Poland 🇵🇱
+
+
+## 🏫 Education
 - Bachelor's degree in Applied Computer Science at Jagiellonian University _(2020-2023)_ 🎓
-- Student of Applied Computer Science at Jagiellonian University (Master's degree; _2023-(2025))_ 🏫
+- Student of Applied Computer Science at Jagiellonian University (Master's degree; _2023-(2025))_ 📚
+
+
+## 🏢 Work experience
+- Software Development Engineer Intern - 2024.07-2024.12 
 
 
 ## 🔭 I’m currently learning/using
-- JavaScript
+- JS & TS
 - Node.js & React
 - C#
-- ML
-
-
-## 🛠️ Skills
-- A fundamental knowledge of: 📚
-  - languages: Python/C/C++/C#/Java/HTML/CSS/JavaScript/SQL
-  - operating systems: Linux/Windows
-  - version control systems: Git
-  - code editors and development environments: VSC, VS
+- ML & NLP
 
 
 ## 🧑‍💻 My repos
@@ -38,7 +37,7 @@
 
 
 ## ⚡ Fun facts
-- My hobbies: 🖥️, 🎮, 💽, 🎤
+- My hobbies: 🖥️, 🎮, 💽, 🎤, 🚵‍♂️
 - I love capybaras ❤️
 
 <img alt="A picture of a capybara" src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img alt="A picture of a capybara" src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img alt="A picture of a capybara" src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
