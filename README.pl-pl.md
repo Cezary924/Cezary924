@@ -8,26 +8,24 @@
 
 ## 🙋‍♂️ O mnie
 - Cezary ♂️
-- 22 lata 🙍🏻
+- 23 lata 🙍🏻
 - Kraków, Polska 🇵🇱
+
+
+## 🏫 Edukacja
 - Absolwent studiów I stopnia: Informatyka Stosowana - Uniwersytet Jagielloński _(2020-2023)_ 🎓
-- Student studiów II stopnia: Informatyka Stosowana - Uniwersystet Jagielloński _(2023-(2025))_ 🏫 
+- Student studiów II stopnia: Informatyka Stosowana - Uniwersystet Jagielloński _(2023-(2025))_ 📚
+
+
+## 🏢 Doświadczenie
+- Software Development Engineer Intern - 2024.07-2024.12 
 
 
 ## 🔭 Obecnie poznaję/używam
-- JavaScript
+- JS & TS
 - Node.js & React
 - C#
-- UM
-
-
-## 🛠️ Umiejętności
-- Fundamentalna wiedza o: 📚
-  - języki: Python/C/C++/C#/Java/HTML/CSS/JavaScript/SQL
-  - systemy operacyjne: Linux/Windows
-  - systemy kontroli wersji: Git
-  - edytory kodu i środowiska programistyczne: VSC, VS
-  - narzędzia biurowe: MS Office, OpenOffice, Google Docs
+- ML & NLP
 
 
 ## 🧑‍💻 Moje repozytoria
@@ -39,7 +37,7 @@
 
 
 ## ⚡ Ciekawostki
-- Zainteresowania: 🖥️, 🎮, 💽, 🎤
+- Zainteresowania: 🖥️, 🎮, 💽, 🎤, 🚵‍♂️
 - Kocham kapibary ❤️
 
 <img alt="Obrazek przedstawiający kapibarę" src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img alt="Obrazek przedstawiający kapibarę" src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64"><img alt="Obrazek przedstawiający kapibarę" src="https://img.freepik.com/free-icon/capybara_318-232704.jpg" width="64" height="64">
